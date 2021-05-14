@@ -9,7 +9,7 @@ This is a React Template built on top of npx create-react-app. This template inc
 
 To begin open your console of choice and navigate to your desktop.
 
-1) run `git clone https://github.com/Lilkgb/React-Template`
+1) run `git clone https://github.com/RMcLeanDev/React-Template`
 2) navigate to the new react-template folder by running `cd react-template`
 3) run `npm install` or `npm i` to install all needed dependencies
 4) depending your text editor run the command to open the files. I use VSC so it would be `code .`
